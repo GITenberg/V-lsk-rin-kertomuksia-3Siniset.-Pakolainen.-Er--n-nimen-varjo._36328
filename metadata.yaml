@@ -32,6 +32,8 @@ creator:
     - http://fi.wikipedia.org/wiki/Zacharias_Topelius
     - http://en.wikipedia.org/wiki/Zachris_Topelius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36328#V-lsk-rin-kertomuksia-3Siniset.-Pakolainen.-Er--n-nimen-varjo.
 gutenberg_issued: '2011-06-05'
 gutenberg_type: Text
 identifiers:
